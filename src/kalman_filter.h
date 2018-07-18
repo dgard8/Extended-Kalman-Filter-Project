@@ -64,6 +64,10 @@ public:
    */
   void UpdateEKF(const Eigen::VectorXd &z);
 
+private:
+  void innerUpdate(const Eigen::VectorXd &z, const Eigen::VectorXd &y);
+  
+  float adjustAngle(float phi);
 };
 
 #endif /* KALMAN_FILTER_H_ */

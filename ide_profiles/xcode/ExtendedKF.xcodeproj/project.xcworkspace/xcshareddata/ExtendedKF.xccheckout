@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3609BCA4-9BC6-4905-98FB-0C0800C97DE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExtendedKF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD9F7F23A3F2EB4E5777714CE1690C1DF5D4CD48</key>
+		<string>https://github.com/dgard8/Extended-Kalman-Filter-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ide_profiles/xcode/ExtendedKF.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD9F7F23A3F2EB4E5777714CE1690C1DF5D4CD48</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dgard8/Extended-Kalman-Filter-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD9F7F23A3F2EB4E5777714CE1690C1DF5D4CD48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD9F7F23A3F2EB4E5777714CE1690C1DF5D4CD48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Extended-Kalman-Filter-Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
