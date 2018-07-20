@@ -67,6 +67,11 @@ int main()
     	  iss >> sensor_type;
 
     	  if (sensor_type.compare("L") == 0) {
+//              std::string msg = "42[\"manual\",{}]";
+//              ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
+//              return;
+              
+              
       	  		meas_package.sensor_type_ = MeasurementPackage::LASER;
           		meas_package.raw_measurements_ = VectorXd(2);
           		float px;
@@ -77,7 +82,6 @@ int main()
           		iss >> timestamp;
           		meas_package.timestamp_ = timestamp;
           } else if (sensor_type.compare("R") == 0) {
-
       	  		meas_package.sensor_type_ = MeasurementPackage::RADAR;
           		meas_package.raw_measurements_ = VectorXd(3);
           		float ro;
